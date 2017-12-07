@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Stone\'s Life</string>
+    <string name="app_name">Жизнь Камня</string>
+
+    <string name="Hello">*Тяжёлый вздох*</string>
 </resources>
